@@ -1,0 +1,10 @@
+C:\Users\marko\source\repos\S4ta\S4ta\obj\Debug\S4ta.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\S4ta\S4ta\obj\Debug\S4ta.Form1.resources
+C:\Users\marko\source\repos\S4ta\S4ta\obj\Debug\S4ta.Properties.Resources.resources
+C:\Users\marko\source\repos\S4ta\S4ta\obj\Debug\S4ta.csproj.GenerateResource.cache
+C:\Users\marko\source\repos\S4ta\S4ta\obj\Debug\S4ta.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\S4ta\S4ta\bin\Debug\S4ta.exe.config
+C:\Users\marko\source\repos\S4ta\S4ta\bin\Debug\S4ta.exe
+C:\Users\marko\source\repos\S4ta\S4ta\bin\Debug\S4ta.pdb
+C:\Users\marko\source\repos\S4ta\S4ta\obj\Debug\S4ta.exe
+C:\Users\marko\source\repos\S4ta\S4ta\obj\Debug\S4ta.pdb
